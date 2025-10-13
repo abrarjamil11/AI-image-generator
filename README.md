@@ -1,5 +1,7 @@
 🧠 AI Image Generator
 
+See Code: https://colab.research.google.com/drive/1k52sw10eqajYSSl6UsJY1Csr47fvli2s?usp=sharing
+
 This project demonstrates a text-to-image generation model using the Stable Diffusion 2.1 pipeline from Hugging Face’s Diffusers library. It allows users to generate high-quality, realistic images from textual prompts — showcasing the power of generative AI and deep learning.
 
 📌 Project Overview
